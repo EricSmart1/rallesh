@@ -1,0 +1,2 @@
+# rallesh
+Rallesh is an app which enables both public and private charting.It has sections as stated below: Video section: Enables video upload and download,u can comment and also create a private chart with the video uploader. Chart section; Enables talking, texting and sharing photos and videos to friends Game section: This is a pass time area where one plays games for fun and pass time. Rallesh is a global social networking app.
